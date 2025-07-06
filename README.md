@@ -15,15 +15,16 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RahmaBahgat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RahmaBahgat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaBahgat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RahmaBahgat&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com?user=RahmaBahgat&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaBahgat&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RahmaBahgat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RahmaBahgat&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ### 🚀 Projects I'm Proud Of
 
@@ -62,5 +63,7 @@ Built a filtering application to apply effects and transformations to images.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-> “Keep learning, keep building, and trust the process.” 💻✨
+> “Keep learning, keep building, and trust the process.” 💻✨  
+> “Half-debugging, half-daydreaming — fully determined.” 🛠️💭🌟
+
 
