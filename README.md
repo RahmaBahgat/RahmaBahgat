@@ -50,14 +50,13 @@ Built a filtering application to apply effects and transformations to images.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmabahgat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahmaBahgat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en" alt="GitHub Stats" />
 </div>
 
 ---
 
 ### 📫 Let’s Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/rahma-bahgat)
-- 🌐 [Portfolio]([https://YOUR-WEBSITE.com](https://drive.google.com/drive/folders/174qqiqRrgvqa0Fap0gQc_1OO7qsEe62Z?usp=sharing))
+- 💼 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/rahma-bahgat)
 - 📬 Email: rahmabahgat455@gmail.com 
 
 ---
