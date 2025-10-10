@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 I’m Rahma Bahgat — a curious CS student with too many open tabs, mildly chaotic to-do lists, and an oddly specific obsession with making things just work 💻✨</h2>
+<h2 align="left">Hey 👋 I’m Rahma Bahgat — a curious IS student with too many open tabs, mildly chaotic to-do lists, and an oddly specific obsession with making things just work 💻✨</h2>
 
 
 
